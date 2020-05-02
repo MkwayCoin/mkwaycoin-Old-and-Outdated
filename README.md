@@ -20,8 +20,8 @@ Mkwaycoin uses scrypt as a proof-of-work algorithm.
  - 1 billion total coins
  - 100 coins per block
  - 1440 blocks to retarget difficulty
- - RPC=49520
- - P2P=49621
+ - RPC=49621
+ - P2P=49520
 
 
  # Twitter https://twitter.com/MkwayC
